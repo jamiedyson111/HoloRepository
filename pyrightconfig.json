@@ -1,0 +1,13 @@
+{
+  "venvPath": "src/server",
+  "venv": ".venv",
+  "reportUnknownMemberType": false,
+  "reportUnknownVariableType": false,
+  "reportUnknownArgumentType": false,
+  "executionEnvironments": [
+    {
+      "root": "src/server/src",
+      "pythonVersion": "3.14"
+    }
+  ]
+}
